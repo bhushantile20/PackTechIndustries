@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This project i make for my client who only want to display there product range on simple website 
